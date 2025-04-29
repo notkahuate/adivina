@@ -1,0 +1,15 @@
+/home/camper/game/adivina/bin/Debug/net8.0/adivina
+/home/camper/game/adivina/bin/Debug/net8.0/adivina.deps.json
+/home/camper/game/adivina/bin/Debug/net8.0/adivina.runtimeconfig.json
+/home/camper/game/adivina/bin/Debug/net8.0/adivina.dll
+/home/camper/game/adivina/bin/Debug/net8.0/adivina.pdb
+/home/camper/game/adivina/obj/Debug/net8.0/adivina.GeneratedMSBuildEditorConfig.editorconfig
+/home/camper/game/adivina/obj/Debug/net8.0/adivina.AssemblyInfoInputs.cache
+/home/camper/game/adivina/obj/Debug/net8.0/adivina.AssemblyInfo.cs
+/home/camper/game/adivina/obj/Debug/net8.0/adivina.csproj.CoreCompileInputs.cache
+/home/camper/game/adivina/obj/Debug/net8.0/adivina.sourcelink.json
+/home/camper/game/adivina/obj/Debug/net8.0/adivina.dll
+/home/camper/game/adivina/obj/Debug/net8.0/refint/adivina.dll
+/home/camper/game/adivina/obj/Debug/net8.0/adivina.pdb
+/home/camper/game/adivina/obj/Debug/net8.0/adivina.genruntimeconfig.cache
+/home/camper/game/adivina/obj/Debug/net8.0/ref/adivina.dll

@@ -29,7 +29,7 @@ namespace adivina
         {
             Console.WriteLine($"- {etiqueta}");
         }
-
+        Console.Write($"- etiqueta correcta  {etiquetaOculta}");
         Console.Write("\nIngresa tu intento: ");
         var intento = Console.ReadLine();
 
